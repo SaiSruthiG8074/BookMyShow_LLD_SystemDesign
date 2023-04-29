@@ -1,0 +1,27 @@
+Design for BookMyShow :
+  1. Requirement Gathering :
+     a)List of users/Actors & Sequence of events for each actor :
+     i) Customer/Client who books ticket:
+     -- browsing and exploring the movies or events available on BookMyShow platform
+     -- select movie/event, date, location, price range and time
+     -- select seats and quantity of tickets
+     -- making payment 
+     -- receiving confirmation of booking the tickets and notifications
+     -- cancel/edit the booking if required
+     -- whether attended the movie/event for the booking or not.
+     
+     ii) Venue Owner:
+     -- Register and verify their venue with the platform.
+     -- Provide details about the venue, such as seating capacity, screens, sound system, etc.
+     -- Receive bookings and payment for events hosted at their venue.
+     -- Get review and ratings of their venue.
+     
+     iii) System:
+     -- Manage the adding/editing movies, events, venues, etc.
+     -- Booking confirmation, cancellations, refunds(notifications)
+     -- View analytics and reporting related to bookings, revenue, user behavior, etc.
+     -- Help Desk.
+     
+    Common Functionalities: 
+    -- Registration and Login
+    -- Info about Movie/event, venue, genre, location
