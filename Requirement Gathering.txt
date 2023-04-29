@@ -1,6 +1,6 @@
 Design for BookMyShow :
   1. Requirement Gathering :
-     a)List of users/Actors & Sequence of events for each actor :
+     List of users/Actors & Sequence of events for each actor :
      i) Customer/Client who books ticket:
      -- browsing and exploring the movies or events available on BookMyShow platform
      -- select movie/event, date, location, price range and time
